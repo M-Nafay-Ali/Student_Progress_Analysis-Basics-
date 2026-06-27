@@ -5,7 +5,7 @@ import pickle
 
 # --- PAGE CONFIGURATION ---
 str.set_page_config(
-    page_title="GraduPulse - Placement Predictor",
+    page_title="Placement Predictor (Nafay)",
     page_icon="🎓",
     layout="centered"
 )
