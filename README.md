@@ -56,5 +56,4 @@ By dropping absolute exam markers and building prediction modeling around raw be
 🤝 Let's Connect!
 If you love this design style or want to talk machine learning pipelines, reach out directly across my personal platforms:
 📬 Email: englandengland271@gmail.com
-💼 LinkedIn: Mohammed Nafay Ali
-<p align="center">Made with 💖 by Nafay</p>
+💼 LinkedIn:-[https://www.linkedin.com/in/mohammed-nafay-ali-16519138a?utm_source=share_via&utm_content=profile&utm_medium=member_android]
